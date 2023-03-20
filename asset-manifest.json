@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41133d5c.css",
+    "main.js": "/static/js/main.b005632a.js",
+    "static/js/787.0fe71c8c.chunk.js": "/static/js/787.0fe71c8c.chunk.js",
+    "static/media/header_logo.png": "/static/media/header_logo.57d7f5d808f42fa49eba.png",
+    "static/media/Anton-Regular.ttf": "/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
+    "static/media/New_World_Logo 1.png": "/static/media/New_World_Logo 1.7c340f37a39ad21e47c5.png",
+    "static/media/Phenomena-ExtraBold.otf": "/static/media/Phenomena-ExtraBold.f42e5b43f519ec030a70.otf",
+    "index.html": "/index.html",
+    "static/media/bx-crown.svg": "/static/media/bx-crown.5e6b012816becff6cf64267dc9ee3ab5.svg",
+    "main.41133d5c.css.map": "/static/css/main.41133d5c.css.map",
+    "main.b005632a.js.map": "/static/js/main.b005632a.js.map",
+    "787.0fe71c8c.chunk.js.map": "/static/js/787.0fe71c8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41133d5c.css",
+    "static/js/main.b005632a.js"
+  ]
+}
