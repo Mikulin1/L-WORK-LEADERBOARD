@@ -8,7 +8,7 @@ const HeaderContent = () => {
     return (
         <section  className={styles.container}>
             
-            <p data-aos="fade-up" data-aos-duration="2000" className={styles.text}>NEW WORLD LEADERBOARD</p>
+            <p data-aos="fade-up" data-aos-duration="2000" className={styles.text}>NEW WORLD </p>
         </section>
     );
 };
