@@ -4,18 +4,25 @@ import MainContent from "../main-content/main-content";
 import HeaderContent from "../header-content/header-content";
 import Footer from "../footer/footer";
 import AOS from 'aos';
-import 'aos/dist/aos.css'; // You can also use <link> for styles
+import 'aos/dist/aos.css';
+import {Route, Routes} from "react-router-dom"; // You can also use <link> for styles
 // ..
-AOS.init();
 
 function App() {
+    AOS.init();
+
     return (
-        <div>
-            <Header/>
-            <HeaderContent/>
-            <MainContent/>
-            <Footer/>
-        </div>
+        <Routes>
+            <Route path={"*"} element={
+                <div>
+                    <Header/>
+                    <HeaderContent/>
+                    <MainContent/>
+                    <Footer/>
+                </div>
+            }/>
+        </Routes>
+
     );
 }
 
